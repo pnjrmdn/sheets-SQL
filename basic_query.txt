@@ -1,0 +1,15 @@
+ex Table : (jangan disingkat), (misal terdapat banyak aplikasi yang digunakan [aplikasi GIS])
+kampus
+gis_kampus
+info
+transaksi_mobil
+transaksi_motor
+
+
+ex kolom :
+primary -> idkampus (janhang diberi _)
+idkampus
+nama
+alamat
+kd_merk (bukan primary/foreign key)
+idinfo
